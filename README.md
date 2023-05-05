@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imchandankumar@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chandan-kumar-0aa24a252/](https://www.linkedin.com/in/chandan-kumar-0aa24a252/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/chandankumarus/](https://www.linkedin.com/in/chandankumarus)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
