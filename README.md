@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">Chandan Kumar | Software Test Engineer | 5+ years EXP | Bengaluru | India</h3>
+<h3 align="center">Chandan Kumar | Software Test Engineer | 5.8 years EXP | Bengaluru | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan123soft&label=Profile%20views&color=0e75b6&style=flat" alt="chandan123soft" /> </p>
 
